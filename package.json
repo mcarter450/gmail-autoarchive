@@ -1,0 +1,29 @@
+{
+  "name": "gmail-autoarchive",
+  "version": "1.0.0",
+  "description": "Simple google app scripts for automatically archiving old notifications, newsletters and promo emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarter450/gmail-autoarchive.git"
+  },
+  "keywords": [
+    "gmail",
+    "autoarchive",
+    "google",
+    "apps",
+    "script"
+  ],
+  "author": "Michael Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcarter450/gmail-autoarchive/issues"
+  },
+  "homepage": "https://github.com/mcarter450/gmail-autoarchive#readme",
+  "dependencies": {
+    "node-google-apps-script": "^1.1.5"
+  }
+}
